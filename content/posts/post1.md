@@ -1,8 +1,7 @@
 ---
-title: Title of the post
-description:
-date:
-tldr: (optional)
-draft: true/false (optional)
-tags: [tag names] (optional)
+title: first post
+description: descruoptuib
+date: 01-05-2023
+tldr: 
+draft: false
 ---
